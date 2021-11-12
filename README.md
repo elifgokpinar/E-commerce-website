@@ -5,6 +5,6 @@
 <p>C#, Asp.Net MVC, Javascript, Html, Css</p>
 
 <h2>Database</h2>
-<p>Microsoft SQL Sever</p>
+<p>Microsoft SQL Server</p>
 
 
