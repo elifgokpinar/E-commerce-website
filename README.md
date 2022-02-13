@@ -1,4 +1,4 @@
-#💻 E-commerce-website
+#E-commerce-website
 <p>☕ Coffee Themed E-commerce website</p>
 
 <h2>📝 Languages</h2>
